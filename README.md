@@ -1,6 +1,8 @@
 # XBot 🤖
 
-An AI-powered social media agent for X (formerly Twitter) that creates engaging, human-like content and interacts naturally within the X ecosystem.
+An AI-powered social media agent for X that creates engaging, human-like content and interacts naturally within the X ecosystem.
+
+![Demo](./screenshot.png)
 
 ## 🌟 Features
 
